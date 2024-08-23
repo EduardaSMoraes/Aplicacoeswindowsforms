@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrocaValores", "TrocaValores\TrocaValores.csproj", "{D6542623-E3AB-4440-BEF0-3001BE544765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulasWindowsForms", "AulasWindowsForms\AulasWindowsForms.csproj", "{2DA6B31B-0F42-4912-8E5C-FED3E8C45CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6542623-E3AB-4440-BEF0-3001BE544765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6542623-E3AB-4440-BEF0-3001BE544765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6542623-E3AB-4440-BEF0-3001BE544765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6542623-E3AB-4440-BEF0-3001BE544765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA6B31B-0F42-4912-8E5C-FED3E8C45CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA6B31B-0F42-4912-8E5C-FED3E8C45CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA6B31B-0F42-4912-8E5C-FED3E8C45CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA6B31B-0F42-4912-8E5C-FED3E8C45CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE5C98B3-43FB-4567-9D43-65FCFE404B37}
+	EndGlobalSection
+EndGlobal
